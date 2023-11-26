@@ -20,9 +20,7 @@ OpenWeatherMap API Key: Obtain an API key from OpenWeatherMap and set it as an e
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/chatgpt-weather-app.git
+git clone (https://github.com/PeterO-13/WFlask.git)
 cd chatgpt-weather-app
 Create a virtual environment:
 
